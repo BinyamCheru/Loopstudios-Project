@@ -1,11 +1,11 @@
 # Loopstudios Project
 
-![Desktop Navbar](https://github.com/BinyamCheru/Loopstudios-Project/blob/master/loopstudio%20desktop%20navbar.png)
+<img src="https://github.com/BinyamCheru/Loopstudios-Project/blob/master/loopstudio%20desktop%20navbar.png" width="600" height="300" />
 
 ## Overview
 Loopstudios Project is a responsive website built using Tailwind CSS. It features a modern and interactive design that adapts seamlessly across different screen sizes, from desktops to mobile devices.
 
-![Desktop View](https://github.com/BinyamCheru/Loopstudios-Project/blob/master/loopstudio%20desktop.png)
+<img src="https://github.com/BinyamCheru/Loopstudios-Project/blob/master/loopstudio%20desktop.png" width="600" height="300" />
 
 ## Features
 - Fully responsive design
@@ -13,14 +13,14 @@ Loopstudios Project is a responsive website built using Tailwind CSS. It feature
 - Smooth transitions and hover effects
 - Well-structured layout with mobile-first approach
 
-![Mobile Navbar](https://github.com/BinyamCheru/Loopstudios-Project/blob/master/loopstudio%20mobile%20navbar.png)
+<img src="https://github.com/BinyamCheru/Loopstudios-Project/blob/master/loopstudio%20mobile%20navbar.png" width="400" height="300" />
 
 ## Technologies Used
 - **Tailwind CSS** - Utility-first CSS framework for styling
 - **HTML** - Markup structure
 - **JavaScript** - Interactive elements
 
-![Mobile View](https://github.com/BinyamCheru/Loopstudios-Project/blob/master/loopstudio%20mobile.png)
+<img src="https://github.com/BinyamCheru/Loopstudios-Project/blob/master/loopstudio%20mobile.png" width="400" height="300" />
 
 ## Installation
 1. Clone the repository:
